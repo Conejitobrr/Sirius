@@ -1,0 +1,44 @@
+{
+  "groups": {
+    "120363279291861886@g.us": {
+      "welcome": true,
+      "bye": true,
+      "lang": "en",
+      "antilink": false,
+      "antilinkAction": "delete",
+      "antilinkWarnCount": {},
+      "events": {
+        "active": true,
+        "adminChange": true,
+        "descChange": true,
+        "photoChange": true,
+        "memberChange": true,
+        "notifyAdmins": false
+      }
+    }
+  },
+  "users": {
+    "4273911943404@lid": {
+      "name": "",
+      "lang": "",
+      "premium": false,
+      "premiumExpiry": null,
+      "banned": false,
+      "bannedReason": "",
+      "warns": 0,
+      "createdAt": 1773990387550
+    },
+    "119280452550827@lid": {
+      "name": "",
+      "lang": "",
+      "premium": false,
+      "premiumExpiry": null,
+      "banned": false,
+      "bannedReason": "",
+      "warns": 0,
+      "createdAt": 1773993535242
+    }
+  },
+  "lidMap": {},
+  "subbots": {}
+}
