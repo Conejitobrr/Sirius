@@ -1,6 +1,6 @@
 {
   "prefix_only_group": "*[❗] Este comando solo funciona en grupos.*",
-  "prefix_only_private": "*[❗] Este comando solo funciona en conversaciones privadas.*",
+  "prefix_only_private": "*[❗] Este comando solo funciona en conversaciones privadas.*",c
   "prefix_owner_only": "*[🔒] Acceso denegado — Solo el propietario del Bot puede usar este comando.*",
   "prefix_admin_only": "*[🔒] Acceso denegado — Solo los administradores del grupo pueden usar este comando.*",
   "prefix_premium_only": "*[👑] Este comando es exclusivo para usuarios *Premium*.\nContacta al owner para adquirirlo.*",
