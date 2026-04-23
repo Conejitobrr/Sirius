@@ -8,16 +8,16 @@ module.exports = {
 
   // ── PROPIETARIOS ─────────────────────────────────────────────────────
   // Número SIN +, SIN espacios. México: '521234567890'
-  rowner : ['5219996125657'],    // Propietario real (máximos permisos)
-  owner  : ['521000000000'],    // Co-owners
+  rowner : ['51958959882'],    // Propietario real (máximos permisos)
+  owner  : ['51958959882'],    // Co-owners
   mods   : [],                  // Moderadores
 
   // ── INFORMACIÓN DEL BOT ───────────────────────────────────────────────
-  botName    : 'KanzanBot 🌸',
-  botVersion : '2.0.0',
+  botName    : 'SiriusBot 🌸',
+  botVersion : '0.0.1',
   botDesc    : 'Bot de WhatsApp inspirado en los cerezos japoneses de Japón',
   botEmoji   : '🌸',
-  footer     : '🌸 KanzanBot v2.0.0',
+  footer     : '🌸 SiriusBot v0.0.1',
 
   // ── PREFIJOS (multi-prefijo) ──────────────────────────────────────────
   // Array de prefijos soportados. Ej: ['!', '.', '/']
